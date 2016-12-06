@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CallLogs</string>
+    <string name="incomingText">Incoming Calls</string>
+    <string name="outgoingText">Outgoing Calls</string>
+    <string name="missedText">Missed Calls</string>
+</resources>
